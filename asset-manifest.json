@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/beers/static/css/main.507336ad.chunk.css",
+    "main.js": "/beers/static/js/main.45e54af0.chunk.js",
+    "main.js.map": "/beers/static/js/main.45e54af0.chunk.js.map",
+    "runtime~main.js": "/beers/static/js/runtime~main.7d526466.js",
+    "runtime~main.js.map": "/beers/static/js/runtime~main.7d526466.js.map",
+    "static/css/2.d4b275d9.chunk.css": "/beers/static/css/2.d4b275d9.chunk.css",
+    "static/js/2.b5aab586.chunk.js": "/beers/static/js/2.b5aab586.chunk.js",
+    "static/js/2.b5aab586.chunk.js.map": "/beers/static/js/2.b5aab586.chunk.js.map",
+    "index.html": "/beers/index.html",
+    "precache-manifest.085a4c3de916e7a563a9f3f259914dd8.js": "/beers/precache-manifest.085a4c3de916e7a563a9f3f259914dd8.js",
+    "service-worker.js": "/beers/service-worker.js",
+    "static/css/2.d4b275d9.chunk.css.map": "/beers/static/css/2.d4b275d9.chunk.css.map",
+    "static/css/main.507336ad.chunk.css.map": "/beers/static/css/main.507336ad.chunk.css.map"
+  }
+}
